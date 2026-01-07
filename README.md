@@ -18,6 +18,6 @@ I combine my engineering background with low-level coding skills to build optimi
 
 ### 📊 My GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=AtakanTugrul&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=AtakanTugrul&show_icons=true&theme=radical" alt="Atakan's Github Stats" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtakanTugrul&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </p>
