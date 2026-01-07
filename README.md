@@ -16,10 +16,5 @@ I combine my engineering background with low-level coding skills to build optimi
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
 
-### 📊 My GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=AtakanTugrul&show_icons=true&theme=radical" alt="Atakan's Github Stats" width="45%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtakanTugrul&layout=compact&theme=radical" alt="Top Langs" width="45%" />
-</p>
+
